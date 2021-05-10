@@ -1,0 +1,156 @@
+{
+  "main": {
+    "name": "Joseph Salvador",
+    "occupation": "ReactJS Developer & Meditation Guide",
+    "description": "Testing Engineer by Day, Reality Hacker & Freelancer by Night.",
+    "image": "avatar.jpg",
+    "bio": "My name is Joe, I'm an aspiring Developer. Currently I'm available for your project while also Making the transition from Retail Management to the Information Technology Sector. I have over ten years of experience of managing small teams of people with the main goal of ensuring the best consumer experience. Documented experience in soft skills such as Verbal Communication, Time Management, and Art Content Creation. HR, accounting, clerical and softskills are a given being a retail manager. Years of proven Troubleshooting experience and mentoring that could be an asset to your Vision",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "slysalvi@aol.com",
+    "phone": "717-660-7535",
+    "address": {
+      "street": "23250 Back Rd",
+      "city": "Concord",
+      "state": "PA",
+      "zip": "17217"
+    },
+    "website": "https://github.com/A1isone/react-portfolio",
+    "resumedownload": "https://github.com/A1isone/react-portfolio",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/WhiteCellWesternMaryland",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/joseph-salvador",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/slysalvi/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/A1isone",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Skilled in project and team management, proven in multiple sectors of industry. React, Bootstrap, JS, HTML, CSS, and other skills available upon request",
+    "education": [
+      {
+        "school": "University of Google",
+        "degree": "IT Support Specialist",
+        "graduated": "January 2019",
+        "description": "Graduated with Certificate as apart of pilot program"
+      }
+    ],
+    "work": [
+      {
+        "company": "J'Sal Designs",
+        "title": "Team Member & React Specialist",
+        "years": "April 2020 - Present",
+        "description": "Teaching Art and React to thousands of students."
+      },
+      {
+        "company": "Higher Balance Institute",
+        "title": "Social Media Manager",
+        "years": "August 2015 - September 2016",
+        "description": "Grew Brand Presence and introduced them into the YouTube market. Apart of the team that relaunched the revamped new site and coordinated email campaigns. Also apart of the team that pushed Higher Balance to publish their most successful book to date: Presient Visions. Art, copy, and profile design in the standard formats. Leading Role on the setup of their hit podcast Rebel Guru Radio"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "100%"
+      },
+      {
+        "name": "Meditation",
+        "level": "99%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      },
+            {
+        "name": "Python",
+        "level": "60%"
+      },      {
+        "name": "Javascript",
+        "level": "60%"
+      },      {
+        "name": "Wordpress",
+        "level": "60%"
+      },      {
+        "name": "Salesforce, Ontraport, CSM/ITSM",
+        "level": "90%"
+      },
+            {
+        "name": "Quickbooks Accounting",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Joe got me setup and ready to go in days.",
+        "user": "Heather B. from Angelita Cupcakes"
+      },
+      {
+        "text": "Joe has one of the most brilliant minds I've ever met, can't wait until he builds what he wants someday,",
+        "user": "Laura from J'Sal"
+      }
+    ]
+  }
+}
