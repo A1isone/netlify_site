@@ -2,14 +2,13 @@
   "main": {
     "name": "Joseph Salvador",
     "occupation": "Father, Aspiring Developer & Meditation Guide",
-    "description": "Testing Engineer by Day, Reality Hacker & Freelancer by Night.",
+    "description": "IT Consultant by Day, Reality Hacker & Test Engineer by Night.",
     "image": "avatar.jpg",
-    "bio": "My name is Joe, I'm an aspiring Developer. Currently I'm available for your project while also Making the transition from Retail Management to the Information Technology Sector. I have over ten years of experience of managing small teams of people with the main goal of ensuring the best consumer experience. Documented experience in soft skills such as Verbal Communication, Time Management, and Art Content Creation. HR, accounting, clerical and softskills are a given being a retail manager. Years of proven Troubleshooting experience and mentoring that could be an asset to your Vision",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else. Making the transition from management and customer service to Information Technology. I have over ten years of experience of managing small teams of people with the main goal of ensuring the best consumer experience. Documented experience in soft skills such as Verbal Communication, Time Management, and Art Content Creation. Years of proven Troubleshooting experience and mentoring that could be an asset to your Vision!",
+    "bio": "My name is Joe, I'm an aspiring Developer. Currently I'm available for your project while making the transition from Retail Management to the Information Technology Sector. I have over ten years of experience of managing small teams of people with the main goal of ensuring the best consumer experience. Documented experience in soft skills such as Verbal Communication, Time Management, and Art Content Creation. HR, accounting, clerical and softskills are a given being a retail manager. Years of proven Troubleshooting experience and mentoring that could be an asset to your Vision",
+    "contactmessage": "Get in touch with me to receive further details, to schedule a consult or collaborate on a project. Making the transition from retail management and customer service to Information Technology. I have over ten years of experience of managing small teams of people with the main goal of ensuring the best consumer experience. Documented experience in soft skills such as Verbal Communication, Time Management, and Art Content Creation. Years of proven Troubleshooting experience and mentoring that could be an asset to your Vision!",
     "email": "1salvador.joseph@gmail.com",
     "phone": "717-660-7535",
     "address": {
-      "street": "23250 Back Rd",
       "city": "Concord",
       "state": "PA",
       "zip": "17217"
@@ -52,9 +51,9 @@
     "work": [
       {
         "company": "J'Sal Designs",
-        "title": "Team Member & React Specialist",
+        "title": "Lead Consultant & React Specialist",
         "years": "April 2020 - Present",
-        "description": "Teaching Art and React to thousands of students."
+        "description": "UX/UI and React to small businesses."
       },
       {
         "company": "Higher Balance Institute",
@@ -66,7 +65,7 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "75%"
       },
       {
         "name": "CSS",
