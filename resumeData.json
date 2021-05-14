@@ -109,16 +109,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
+        "title": "MERN Stack Amazon Clone",
+        "category": "Amazon Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "amazon_clone_screenshot.png",
         "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
       },
       {
         "title": "MERN Stack TikTok Clone",
         "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "url": "https://challenge-f75ba.web.app/"
       },
       {
         "title": "Facebook Clone with React",
