@@ -115,6 +115,12 @@
         "url": "https://challenge-f75ba.web.app/"
       },
       {
+        "title": "TinDog, Tinder for Dogs",
+        "category": "JOKE SITE, just to play around with CSS and HTML, sandbox new ideas and design colors, etc",
+        "image": "tinDog_Capture.png",
+        "url": "https://a1isone.github.io/TinDog-Start/"
+      },
+      {
         "title": "MERN Stack TikTok Clone",
         "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
         "image": "tiktok-mern.jpeg",
